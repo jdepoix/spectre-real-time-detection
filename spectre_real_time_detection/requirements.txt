@@ -1,0 +1,6 @@
+keras
+numpy
+psutil
+python_papi
+tensorflow
+scikit-learn
